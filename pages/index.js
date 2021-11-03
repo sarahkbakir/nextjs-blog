@@ -16,10 +16,10 @@ export default function Home({}) {
      
       <section className={utilStyles.headingMd}>
         <p>
-          Hallo, I'm Sarah. I'm a front end developer! I'm an artist who loves
-          spreading good vibes too. You will find skills I learned with each
-          course I achieved and a post about how I started my{" "}
-          <strong>Front-End Development</strong> journey from scratch in my <strong>blog</strong> section. {<br />}
+          Hallo, I'm Sarah. I'm a front end developer! an artist who loves
+          spreading good vibes too. You can check the <a href={`https://skbportfolio.vercel.app/`} passHref={true}>
+        new version
+      </a> of my portfolio.
         </p>
       </section>
 
