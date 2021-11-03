@@ -59,6 +59,10 @@
       color:var(--color-headers-bg);
   }
 
+  .svg{
+    width: 1rem;
+    display: inline;
+  }
 
   .footer{
 position: fixed;   
