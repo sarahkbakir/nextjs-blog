@@ -17,10 +17,7 @@ export default function Home({}) {
       <section className={utilStyles.headingMd}>
         <p>
           Hallo, I'm Sarah. I'm a front end developer! an artist who loves
-          spreading good vibes too. You can check the <a href={`https://skbportfolio.vercel.app/`} passHref={true}>
-        new version
-      </a> of my portfolio.
-        </p>
+          spreading good vibes too.
       </section>
 
       {/* blog section */}
