@@ -15,9 +15,7 @@ export default function Home({}) {
       </Head>
      
       <section className={utilStyles.headingMd}>
-        <p>
-          Hallo, I'm Sarah. I'm a front end developer! an artist who loves
-          spreading good vibes too.
+   
       </section>
 
       {/* blog section */}
