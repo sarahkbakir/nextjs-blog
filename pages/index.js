@@ -42,7 +42,7 @@ export default function Home({}) {
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <Link href="/certificates">
           <a>
-            <h2 className={utilStyles.headingLg}>Certificates and Projects</h2>
+            <h2 className={utilStyles.headingLg}>Projects</h2>
           </a>
         </Link>
       </section>
@@ -51,7 +51,7 @@ export default function Home({}) {
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <Link href="/Contact">
           <a>
-            <h2 className={utilStyles.headingLg}>Contact and Profiles</h2>
+            <h2 className={utilStyles.headingLg}>Contact</h2>
           </a>
         </Link>
       </section>
