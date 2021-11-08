@@ -5,7 +5,7 @@ import Link from 'next/link'
 
 
 export default function Skills () {
-let skills = ['CSS3', 'HTML5', 'JavaScript', 'React', 'Redux', 'Webpack', 'Bootstrap', 'React bootstrap', 'Styled components', 'Node js' ]
+let skills = ['CSS3', 'HTML5', 'JavaScript', 'React', 'Redux', 'Webpack', 'Bootstrap', 'React bootstrap', 'Styled components', 'Node js', 'Next js']
     return (
         <Layout certificates>
             <section className={utilStyles.headingMd}>

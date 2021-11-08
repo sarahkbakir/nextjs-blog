@@ -1,19 +1,19 @@
 html,
 body {
-  padding: 0 1rem 0.5rem 1.5rem;
-  margin: 4rem auto 1rem auto;
+  padding: 0rem;
+  margin: 0rem 0.5rem;
   font-family: Roboto Mono, monospace;
   line-height: 1.6;
-  font-size: 18px;
+  font-size: 1rem;
   
 }
 body[data-theme="light"]  {
   background-color: rgb(255, 255, 255);
   --color-text-primary: #302e2b;
---color-text-secondary: #2c7e79;
+--color-text-secondary: #2c7e5f;
 --color-bg-primary: rgb(252, 255, 67);
---color-header-primary:#9aa999;
---color-headers-bg:#351717;
+--color-header-primary:#58681c;
+--color-headers-bg:#1a1818;
 --color-bg-toggle: #e4eaf0;
 --color-text-brand:#d3ad14;
 
@@ -57,15 +57,19 @@ ul [data-theme="light"]{
 ul[data-theme="dark"]{
 color: var(--color-text-primary);
 }
+
 h1 {
   color: var(--color-headers-bg);
 }
+
 .small[data-theme="light"] {
   color: var(--color-text-primary);
 }
+
 .small[data-theme="dark"] {
   color: var(--color-text-primary);
 }
+
 li{
   margin-bottom: 0.5rem;
   color: var(--color-header-primary);
@@ -102,6 +106,7 @@ img {
   max-height: 100%;
   display: inline-block;
 }
+
 .menu[data-theme="dark"] {
   color: white;
 }

@@ -11,7 +11,7 @@ export default function certificates ({ allPostsData }) {
         <Layout certificates>
   
           <section className={utilStyles.headingMd}>
-            <p>Hallo again, You will find skills I learned, projects I did, a post about how I started my <strong>Front-End Development</strong> journey from scratch and some useful resources. {<br/>} 
+            <p>You will find some of the projects I did, a post about how I started my Front-End Development journey from scratch with some useful resources. {<br/>} 
              </p>
     
           </section>

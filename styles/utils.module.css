@@ -65,11 +65,9 @@
   }
 
   .footer{
-position: fixed;   
-bottom: 0rem;
-right: 0rem;
+position: relative;   
+bottom: -13rem;
 width: 100%;
-background-color: rgba(240, 248, 255, 0.707);
 padding: 0rem;
 }
 
