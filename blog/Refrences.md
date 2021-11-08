@@ -1,6 +1,6 @@
 ---
 title: 'Learning resources all in one list!'
-date: '2021-10-21'
+date: '2021-11-01'
 skills: 'Links, books and practicing tips'
 ---
 -  **Exploring The world of Front end development**
