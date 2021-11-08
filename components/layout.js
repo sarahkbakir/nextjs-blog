@@ -64,9 +64,7 @@ export default function Layout({ children, home }) {
       <ThemeToggle />
 
       <main>{children}</main>
-      <footer className={utilStyles.footer}>
-        <p>made with love</p>
-      </footer>
+     
       {!home && (
           <div className={utilStyles.arrowright}>
             {<br />}
