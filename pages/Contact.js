@@ -17,7 +17,7 @@ export default function Contact() {
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Contact</h2>
         <p >
-          You can contact me on<a href="https://www.linkedin.com/in/sarahbakir-k/">Linkedin</a> , Email me @ Sarahbakir.k@gmail.com, or just follow me and lets get in touch!</p>
+          You can contact me on <a href="https://www.linkedin.com/in/sarahbakir-k/">Linkedin</a> , Email me @ Sarahbakir.k@gmail.com, or just follow me and lets get in touch!</p>
         <ul className={utilStyles.list}>
           {profiles.map((profile, index) => (
             <li className={utilStyles.listItem} key={index}>
