@@ -75,7 +75,6 @@ const ThemeToggle = () => {
       <ToggleThumb activeTheme={activeTheme} />
 
            <span  aria-hidden={true}>   <svg
-          onClick={() => setTheme("light")}
           xmlns="http://www.w3.org/2000/svg"
           className={UtilStyles.svg}
           fill="none"
@@ -91,7 +90,6 @@ const ThemeToggle = () => {
         </svg> </span>
         <span aria-hidden={true}>
         <svg
-          onClick={() => setTheme("dark")}
           xmlns="http://www.w3.org/2000/svg"
           className={UtilStyles.svg}
           fill="none"
