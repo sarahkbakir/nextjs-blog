@@ -69,7 +69,7 @@ There are some resources that helped me and others I knew about later but still 
 
 I love problem solving time, and unless I manage to make time limits for myself, I can spend everyday all day solving problems on platforms and learning tricks, ideas, concepts and methods. It's very challenging and rewarding. I would reccomend though starting with beginner level problems and leveling up rather than just going random because as a beginner failing at solving problems will be very disappointing.
 
-I found a couple of lists of **Problem Solving** websites, tried some of them and would happily reccomend some of which I loved, found very entertaining and helpful.
+I created a list of **Problem Solving** websites, that I would happily reccomend.
 
 - Problem Solving:
   - [CodeWars](https://www.codewars.com)
