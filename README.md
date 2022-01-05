@@ -1,2 +1,2 @@
-## Sarah's personal website:
-This is one of my trials learning Next.js.
+## Sarah's personal website
+This is my first project while learning Next.js and deploying with vercel.
