@@ -1,6 +1,6 @@
 ---
 title: 'Non-technical thoughts on becoming a web developer!'
-date: '2021-03-12'
+date: '2021-12-03'
 skills: 'painting, photography and random thoughts'
 ---
 ## Wordpress, Art and Thoughts races!
