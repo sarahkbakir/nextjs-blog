@@ -11,11 +11,11 @@ I started in 2015 exploring the world of blogging and content writing. I started
 
 I thought I was exploring the internet, but it turned out I was exploring myself!. I started expressing myself more with words, rather than just painting. I didn't see what I became today coming! I thought I would definetly end up as an artist!! creating beautiful art installations, art pieces, or just painting. An **electrical engineer** in the morning and an **Artist** later on. That's what I worked for and what I thought I were before exploring web developement!
 
-Web Development which technically has the same concept **Creating something huge from scratch** as **Art**, but using different tools and using imagination differently.
+Web Development which technically has the same concept **Creating something huge from scratch** as **Art**, but using different tools and using my imagination differently.
 
 I'm so glad and gratefull for what I became today, and I won't definetly stop learning new things everyday. It's really amazing how just few lines code can make huge differences.
 
 
 
-
+My wordpress blog/website:
  * [Suekay's](https://suekays.wordpress.com/)
