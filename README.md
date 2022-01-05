@@ -1,3 +1,3 @@
-## Sarah Bakir's personal website project
+## Personal website project
 
 My first project while learning Next.js and deploying with vercel.
